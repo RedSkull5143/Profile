@@ -28,7 +28,7 @@ Additionally, if you are using [VSCode](https://code.visualstudio.com/download),
 1. Clone the repo using git or download the zip of the project on your local system.
 To clone
 ```bash
-$ git clone https://github.com/imvpn22/resume.git
+$ git clone https://github.com/Profile/Profile.git
 ```
 
 2. Go into the `resume` directory and run
