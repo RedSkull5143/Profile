@@ -30,7 +30,7 @@ const profileData = {
     },
     {
       title: "Frameworks/Libraries",
-      value: "Selenium WebDriver, TestNG, ReactJS, NodeJS-Express",
+      value: "Selenium WebDriver, TestNG, RestAssured, ReactJS, NodeJS-Express",
     },
     {
       title: "Automation & Testing",
