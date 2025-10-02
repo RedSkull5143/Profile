@@ -4,7 +4,7 @@ const profileData = {
   sub_title: "Software Development Engineer in Test",
   logoURL: "assets/images/dp.jpg",
   about: {
-    intro: `Software Development Engineer in Test (SDET) with expertise in Java, Selenium, TestNG, API Automation, and MERN technologies. Strong foundation in software development and automation frameworks, enabling efficient test execution and debugging. Experienced in cross-browser testing, CI/CD integration, and scalable automation strategies. Passionate about enhancing software quality through advanced automation techniques and problem-solving.`,
+    intro: `SDET with expertise in Java, Selenium, TestNG, API Automation, and MERN stack. Skilled in building scalable automation frameworks and AI-powered test solutions to accelerate QA workflows, improve coverage, and enhance software quality. Passionate about leveraging automation and full-stack technologies to deliver robust, efficient, and high-quality software.`,
     contact: {
       email: "omshinde5143@gmail.com",
       phone: "+91-8625971620",
@@ -30,7 +30,7 @@ const profileData = {
     },
     {
       title: "Frameworks/Libraries",
-      value: "Selenium WebDriver, TestNG, RestAssured, ReactJS, NodeJS-Express",
+      value: "Selenium WebDriver, Karate, TestNG, RestAssured, ReactJS, NodeJS-Express",
     },
     {
       title: "Automation & Testing",
@@ -87,6 +87,16 @@ const profileData = {
   ],
   projects: [
     {
+      title: "AI-Powered Test Case Generator",
+      duration: "July 2025",
+      desc: `Developed an <strong>AI-Powered Test Case Generator</strong> using the <strong>MERN stack</strong> with <strong>ChatGPT API integration</strong> to automatically create functional and regression test cases from requirement documents, reducing manual effort and improving coverage. Implemented a <strong>React-based UI</strong>, <strong>Node.js/Express backend</strong>, and <strong>MongoDB storage</strong>, which helped <strong>manual testers reduce execution time</strong> and accelerate QA workflows.`,
+    },
+    {
+      title: "OTP Retreiver - Custom SMS Reader",
+      duration: "March 2025",
+      desc: `Developed a <strong>Custom SMS Reading Application</strong> to parse and manage <strong>OTP-based messages</strong> for automation workflows, reducing manual intervention and improving login/testing efficiency. Implemented a <strong>lightweight Android interface</strong> and <strong>backend integration</strong> to seamlessly feed OTPs into test scripts, which helped <strong>manual testers save time</strong> and streamline authentication testing.`,
+    },
+    {
       title: "Enhancing Hospitality through Geofencing",
       duration: "May 2023 - Dec 2023",
       desc: `Developed a <strong>geofencing-based system</strong> to elevate the guest experience by delivering <strong>personalized, location-aware services and notifications</strong> within a hotel environment.
@@ -103,13 +113,13 @@ const profileData = {
       alma: "D. Y. Patil College of Engineering & Technology, Kolhapur",
       duration: "2020 - 2024",
       std: "B.Tech. (Computer Science & Engineering)",
-      score: "8.9",
+      score: "8.9 CGPA",
     },
     {
       alma: "Sai Internation & Jr. College, Gadhinglaj",
       duration: "2018 - 2020",
       std: "Class XI-XII (PCM)",
-      score: "82.38%",
+      score: "82.38 %",
     },
   ],
   events: [],
